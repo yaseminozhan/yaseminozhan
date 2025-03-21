@@ -25,6 +25,8 @@ Ek Yetkinlikler: Git, GitHub, Ekip Çalışması, Zaman Yönetimi
 ### 📊 GitHub İstatistiklerim  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseminozhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminozhan&layout=compact)
-![GitHub Snake animation](https://github.com/yaseminozhan/yaseminozhan/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Aktivite Animasyonu
+![GitHub Snake animation](https://raw.githubusercontent.com/yaseminozhan/yaseminozhan/output/github-contribution-grid-snake.svg)
+
 
 
