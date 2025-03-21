@@ -1,0 +1,23 @@
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gün otomatik çalıştırır
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Pages için Snake Animasyonu Üret
+        uses: Platane/snk@master
+        with:
+          github_user_name: yaseminozhan
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Çıktıyı Push Et
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
