@@ -30,3 +30,4 @@ Ek Yetkinlikler: Git, GitHub, Ekip Çalışması, Zaman Yönetimi
 
 
 
+
