@@ -22,11 +22,7 @@ Ek Yetkinlikler: Git, GitHub, Ekip Çalışması, Zaman Yönetimi
 📧 Mail: yasemiinozhan@gmail.com🔗 LinkedIn: linkedin.com/in/yaseminozhan💻 GitHub: github.com/yaseminozhan
 
 "Sürekli gelişim ve öğrenme yolculuğundayım. Yazılım dünyasında kendimi kanıtlamak için her gün kod yazıyor, projeler geliştiriyor ve öğrendiklerimi paylaşıyorum!"
-### 📊 GitHub İstatistiklerim  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseminozhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminozhan&layout=compact)
-### 🐍 GitHub Aktivite Animasyonu
-![GitHub Snake animation](https://raw.githubusercontent.com/yaseminozhan/yaseminozhan/output/github-contribution-grid-snake.svg)
+
 
 
 
