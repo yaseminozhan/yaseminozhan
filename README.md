@@ -24,6 +24,7 @@ Ek Yetkinlikler: Git, GitHub, Ekip Çalışması, Zaman Yönetimi
 "Sürekli gelişim ve öğrenme yolculuğundayım. Yazılım dünyasında kendimi kanıtlamak için her gün kod yazıyor, projeler geliştiriyor ve öğrendiklerimi paylaşıyorum!"
 
 
+![GitHub Snake](https://raw.githubusercontent.com/yaseminozhan/snk/output/github-contribution-grid-snake.svg)
 
 
 
