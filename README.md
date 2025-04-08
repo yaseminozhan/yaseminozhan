@@ -1,27 +1,67 @@
- Yasemin Özhan
+<h1 align="center">Hi 👋, I'm Yasemin Özhan</h1>
+<h3 align="center">🎓 Full-Stack Web Geliştirici | Frontend & Backend ile ilgileniyorum.</h3>
 
-🎓 Full-Stack Web Geliştirici| Frontend & Backend ile ilgileniyorum.🚀 Modern, kullanıcı dostu ve interaktif web arayüzleri oluşturmayı hedefliyorum.💡 Proje bazlı öğrenmeye inanıyorum ve gerçek dünya projeleriyle kendimi geliştiriyorum.
+<p align="center">🚀 Modern, kullanıcı dostu ve interaktif web arayüzleri oluşturmayı hedefliyorum.<br>
+💡 Proje bazlı öğrenmeye inanıyor, gerçek dünya projeleriyle kendimi geliştiriyorum.</p>
 
-🛠️ Uzmanlık Alanlarım
+---
 
-Frontend: HTML5, CSS3, Bootstrap, JavaScript, React.js, UI/UX tasarım prensipleri
+### 🛠️ Uzmanlık Alanlarım
 
-Backend: C#, .NET Core, MVC, Entity Framework, Web API
+**Frontend:**
+- HTML5, CSS3, Bootstrap  
+- JavaScript, React.js  
+- UI/UX Tasarım Prensipleri  
 
-Veritabanı: MSSQL, Entity Framework Core, Redis
+**Backend:**
+- C#, .NET Core, MVC  
+- Entity Framework, Web API  
 
-Sanallaştırma: VMware Workstation Pro, Docker
+**Veritabanı:**
+- MSSQL  
+- Entity Framework Core  
+- Redis  
 
-Nesne Yönelimli Programlama (OOP): C# OOP, SOLID Principles, Design Patterns
+**Sanallaştırma:**
+- Docker  
+- VMware Workstation Pro  
 
-Ek Yetkinlikler: Git, GitHub, Ekip Çalışması, Zaman Yönetimi
+**Nesne Yönelimli Programlama:**
+- C# OOP  
+- SOLID Principles  
+- Design Patterns  
 
+**Ekstra Yetkinlikler:**
+- Git & GitHub  
+- Ekip Çalışması  
+- Zaman Yönetimi  
 
-📫 Bana Ulaşın
+---
 
-📧 Mail: yasemiinozhan@gmail.com🔗 LinkedIn: linkedin.com/in/yaseminozhan💻 GitHub: github.com/yaseminozhan
+### 📫 Bana Ulaşın
 
-"Sürekli gelişim ve öğrenme yolculuğundayım. Yazılım dünyasında kendimi kanıtlamak için her gün kod yazıyor, projeler geliştiriyor ve öğrendiklerimi paylaşıyorum!"
+- 📧 **Mail:** yasemiinozhan@gmail.com  
+- 💼 [**LinkedIn**](https://linkedin.com/in/yaseminozhan)  
+- 💻 [**GitHub**](https://github.com/yaseminozhan)  
+
+---
+
+### ⚡ Küçük Bir Not:
+
+> "Sürekli gelişim ve öğrenme yolculuğundayım. Yazılım dünyasında kendimi kanıtlamak için her gün kod yazıyor, projeler geliştiriyor ve öğrendiklerimi paylaşıyorum!" 🚀
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaseminozhan&show_icons=true&theme=default&locale=tr" alt="yaseminozhan" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminozhan&layout=compact&theme=default" alt="yaseminozhan" />
+</p>
+
 
 
 ![GitHub Snake](https://raw.githubusercontent.com/yaseminozhan/snk/output/github-contribution-grid-snake.svg)
