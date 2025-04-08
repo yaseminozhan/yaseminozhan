@@ -35,7 +35,7 @@
 ### 📫 Bana Ulaşın
 
 - 📧 **Mail:** yasemiinozhan@gmail.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/yaseminozhan)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/yasemin-%C3%B6zhan-625314356/)    
 - 💻 [**GitHub**](https://github.com/yaseminozhan)  
 
 ---
