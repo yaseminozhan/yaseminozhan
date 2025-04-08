@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yasemin Özhan</h1>
-<h3 align="center">🎓 Full-Stack Web Geliştirici | Frontend & Backend ile ilgileniyorum.</h3>
 
 <p align="center">🚀 Modern, kullanıcı dostu ve interaktif web arayüzleri oluşturmayı hedefliyorum.<br>
 💡 Proje bazlı öğrenmeye inanıyor, gerçek dünya projeleriyle kendimi geliştiriyorum.</p>
