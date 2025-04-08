@@ -19,12 +19,7 @@
 **Veritabanı:**
 - MSSQL  
 - Entity Framework Core  
-- Redis  
-
-**Sanallaştırma:**
-- Docker  
-- VMware Workstation Pro  
-
+  
 **Nesne Yönelimli Programlama:**
 - C# OOP  
 - SOLID Principles  
