@@ -52,15 +52,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaseminozhan&show_icons=true&theme=default&locale=tr" alt="yaseminozhan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseminozhan&layout=compact&theme=default" alt="yaseminozhan" />
-</p>
 
 
 
